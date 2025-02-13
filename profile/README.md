@@ -8,8 +8,8 @@ because it was "everyone's second favorite language."  What might that be today?
 (I've intentionally omitted C because just about everthing it can do, C++ can do so much better.)
 
 What makes this project unique is that a primary goal is to retain the original structure of **tex.web** as much as possible.
-Why?  Well, it is one of the few (only?) programs published as a book, which means the extensive documentation is organized
-in a particular fashion.  By keeping the "flow" of **tex.web**,
+Why?  Well, it is one of the few programs published as a book, which means the extensive documentation is organized in a
+particular fashion.  By keeping the "flow" of **tex.web**,
 [TeX: The Program](https://www.amazon.com/Computers-Typesetting-B-TeX-Program/dp/0201134373/)
 can still be used as a reference.
 
@@ -24,6 +24,6 @@ Other goals might include:
 * Making it easier to do various experiments with TeX, something that is difficult with **tex.web** or other ports that are
   primarily interested in a working TeX executable.
 
-  It is not (necessarily) intended to be a production version of TeX; although since it passes the "TRIP" test, it could be.
+It is not (necessarily) intended to be a production version of TeX; although since it passes the "TRIP" test, it could be.
 
-  PRs happily accepted! This is most definately a work in progress.
+PRs happily accepted! This is most definately a work in progress.
