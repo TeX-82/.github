@@ -1,7 +1,7 @@
 # TeX-82
 
-This respository contains ports of TeX-82 to various languages; it is an attempt to answer "if TeX were written today,
-what would it look like?"
+This respository contains ports of **tex.web** to various languages; it is an attempt to answer "if TeX were written today,
+what might it look like?"
 
 Obviously, there's no answer for that question; Knuth himself might not even know.  He once claimed he picked Pascal
 because it was "everyone's second favorite language."  What might that be today? Python? C++? C#? TypeScript?  Rust?
@@ -15,7 +15,7 @@ can still be used as a reference.
 
 A project like this makes sense now because **tex.web** is very nearly frozen at version `$\pi$` (Knuth was born 1938).
 Also, many languages now have sufficient features that preserving the presentation of **tex.web** is more possible
-than it was in the past.  (Even then, compile-time reflection in C++26 would make simulating nested functions easier.)
+than it was in the past.
 
 Other goals might include:
 * "Proving" that's it's possible to write a non-trivial program in a language's idomatic style; and,
